@@ -1,0 +1,20 @@
+## Interface: 40300
+## Title:|cffffd00aZMRS Suite|r |cff7f7fffv2.1|r
+## Version: 2.1.0
+## Author: Gelu.Kelu
+## Notes: For we are many!
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: ZMRS_AW_CONFIG,ZMRS_RC_CONFIG
+## OptionalDeps: oUF_Experience, oUF_Reputation
+## X-Category: Interface Enhancements
+## X-Website: http://zveren.com/
+
+ZMRS_Minimap\ZMRS_Minimap.lua
+ZMRS_Emote\ZMRS_Emote.lua
+ZMRS_MinimapPing\ZMRS_MinimapPing.lua
+ZMRS_Buffs\ZMRS_Buffs.lua
+ZMRS_CombatLog\ZMRS_CombatLog.lua
+ZMRS_Totems\ZMRS_Totems.lua
+ZMRS_Junk\ZMRS_Junk.lua
+ZMRS_UnitFrames\oUF\oUF.xml
+ZMRS_UnitFrames\ZMRS_UnitFrames.lua
